@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">DadJokes</string>
+    <string name = "show_PunchLine">Show Punch Line </string>
+    <string name = "PunchLines">No Joke Selected</string>
+    <string-array name = "jokes">
+        <item>What did the zero say to the eight?</item>
+        <item>Where do you learn to make a banana split?</item>
+        <item>Where do fruits go on vacation?</item>
+        <item>Why do seagulls fly over the ocean?</item>
+        <item>What do you call a poor Santa Clause?</item>
+        <item>How many tickles does it take to make an octopus laugh? </item>
+        <item>What concert costs just 45 cents?</item>
+        <item>What country capital is growing the fastest?</item>
+    </string-array>
+</resources>
